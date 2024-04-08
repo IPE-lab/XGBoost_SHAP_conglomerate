@@ -1,10 +1,9 @@
 # **XGBoost_SHAP_conglomerate**
 ## Running screenshots show
-
-  <img src="img/SHAP values of training set.jpg" width="400" />
+- <img src="img/SHAP values of training set.jpg" width="400" />
 - **SHAP values of training set**
-  <img src="img/Mean SHAP value of input factors0.jpg" width="400" />
-  <img src="img/Mean SHAP value of input factors1.jpg" width="400" />
+- <img src="img/Mean SHAP value of input factors0.jpg" width="400" />
+- <img src="img/Mean SHAP value of input factors1.jpg" width="400" />
 - **Mean SHAP value of input factors**
 - ***
 ## Paper Support
