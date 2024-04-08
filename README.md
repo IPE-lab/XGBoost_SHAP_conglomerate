@@ -1,7 +1,7 @@
 # **XGBoost_SHAP_conglomerate**
 ## Running screenshots show
 - **Mean SHAP value of input factors**
-  <img src="img/Mean SHAP value of input factors0.jpg" width="400" />
+- <img src="img/Mean SHAP value of input factors0.jpg" width="400" />
 ***
 ## Paper Support
 - Original information: Investigation of hydraulic fracture propagation in conglomerate rock using discrete element method and explainable machine learning framework
