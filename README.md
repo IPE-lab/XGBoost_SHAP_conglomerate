@@ -1,6 +1,6 @@
 # **XGBoost_SHAP_conglomerate**
 ## Running screenshots show
-- **Mean SHAP value of input factors \n**
+- **Mean SHAP value of input factors /n**
   <img src="img/Mean SHAP value of input factors0.jpg" width="400" />
 ***
 ## Paper Support
